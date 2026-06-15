@@ -65,8 +65,8 @@ Cloud Platform Engineer specializing in **Infrastructure-as-Code**, **Terraform 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aminemoueqqit&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminemoueqqit&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sonkei07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonkei07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
