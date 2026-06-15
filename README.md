@@ -23,20 +23,20 @@ Cloud Platform Engineer specializing in **Infrastructure-as-Code**, **Terraform 
 
 | Repo | Description | Stack |
 |---|---|---|
-| [iac-tfe-to-terrakube-migrator](https://github.com/aminemoueqqit/iac-tfe-to-terrakube-migrator) | Production-grade Python CLI to migrate TFE workspaces, variables, SSH keys, VCS connectors, and state to Terrakube | Python · TFE API · Terrakube API |
-| [iac-opentofu-multicloud-modules](https://github.com/aminemoueqqit/iac-opentofu-multicloud-modules) | Reusable OpenTofu/Terraform modules for OCI, Azure, OVH, and Vault — versioned, documented, registry-ready | OpenTofu · OCI · Azure · OVH |
+| [iac-tfe-to-terrakube-migrator](https://github.com/Sonkei07/iac-tfe-to-terrakube-migrator) | Production-grade Python CLI to migrate TFE workspaces, variables, SSH keys, VCS connectors, and state to Terrakube | Python · TFE API · Terrakube API |
+| [iac-opentofu-multicloud-modules](https://github.com/Sonkei07/iac-opentofu-multicloud-modules) | Reusable OpenTofu/Terraform modules for OCI, Azure, OVH, and Vault — versioned, documented, registry-ready | OpenTofu · OCI · Azure · OVH |
 
 ### 🔁 CI/CD
 
 | Repo | Description | Stack |
 |---|---|---|
-| [cicd-gitlab-opentofu-templates](https://github.com/aminemoueqqit/cicd-gitlab-opentofu-templates) | Reusable GitLab CI & GitHub Actions templates for OpenTofu — plan, apply, destroy, OPA gate, Vault secret injection | GitLab CI · GitHub Actions · Vault · OPA |
+| [cicd-gitlab-opentofu-templates](https://github.com/Sonkei07/cicd-gitlab-opentofu-templates) | Reusable GitLab CI & GitHub Actions templates for OpenTofu — plan, apply, destroy, OPA gate, Vault secret injection | GitLab CI · GitHub Actions · Vault · OPA |
 
 ### 🔐 Security & Governance
 
 | Repo | Description | Stack |
 |---|---|---|
-| [security-iac-toolkit](https://github.com/aminemoueqqit/security-iac-toolkit) | OPA policies for Terraform plan enforcement, drift detection, secret leakage scanning, and cost estimation for OCI/Azure | OPA · Python · OpenTofu · OCI · Azure |
+| [security-iac-toolkit](https://github.com/Sonkei07/security-iac-toolkit) | OPA policies for Terraform plan enforcement, drift detection, secret leakage scanning, and cost estimation for OCI/Azure | OPA · Python · OpenTofu · OCI · Azure |
 
 ---
 
