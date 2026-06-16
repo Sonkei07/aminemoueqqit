@@ -56,7 +56,7 @@ Cloud Platform Engineer specializing in **Infrastructure-as-Code**, **Terraform 
 <p align="left">
 
   <!-- HashiCorp -->
-  <a href="[https://www.credly.com/users/amine-moueqqit](https://www.credly.com/badges/56e974af-7309-44c1-8e8c-1de1ea93c0c0/public_url)" target="_blank">
+  <a href="[[https://www.credly.com/users/amine-moueqqit](https://www.credly.com/badges/56e974af-7309-44c1-8e8c-1de1ea93c0c0/public_url)](https://www.credly.com/badges/56e974af-7309-44c1-8e8c-1de1ea93c0c0)" target="_blank">
     <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate_003-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
   </a>
 
