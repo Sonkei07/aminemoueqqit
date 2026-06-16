@@ -30,13 +30,13 @@ Cloud Platform Engineer specializing in **Infrastructure-as-Code**, **Terraform 
 
 | Repo | Description | Stack |
 |---|---|---|
-| [cicd-gitlab-opentofu-templates](https://github.com/Sonkei07/cicd-gitlab-opentofu-templates) | Reusable GitLab CI & GitHub Actions templates for OpenTofu — plan, apply, destroy, OPA gate, Vault secret injection | GitLab CI · GitHub Actions · Vault · OPA |
+| [cicd-gitlab-opentofu-templates](https://github.com/Sonkei07/cicd-gitlab-opentofu-templates) | Reusable GitLab CI templates for OpenTofu — plan, apply, destroy, OPA gate, drift detection, multi-env promotion | GitLab CI · OPA · OCI · Azure |
 
 ### 🔐 Security & Governance
 
 | Repo | Description | Stack |
 |---|---|---|
-| [security-iac-toolkit](https://github.com/Sonkei07/security-iac-toolkit) | OPA policies for Terraform plan enforcement, drift detection, secret leakage scanning, and cost estimation for OCI/Azure | OPA · Python · OpenTofu · OCI · Azure |
+| [security-iac-toolkit](https://github.com/Sonkei07/security-iac-toolkit) | OPA policies, drift detection, secret leakage scanning, and cost estimation for OCI & Azure | OPA · Python · OpenTofu · OCI · Azure |
 
 ---
 
@@ -53,12 +53,59 @@ Cloud Platform Engineer specializing in **Infrastructure-as-Code**, **Terraform 
 
 ## 🏆 Certifications
 
-| Provider | Certifications |
-|---|---|
-| HashiCorp | Terraform Associate (003) |
-| Python Institute | PCAP — Certified Associate Programmer |
-| Microsoft Azure | AZ-900 · AZ-204 · AZ-500 · DP-900 · SC-900 · AI-900 · AI-102 |
-| Oracle Cloud | OCI Foundations · OCI AI Foundations · OCI DevOps Professional |
+<p align="left">
+
+  <!-- HashiCorp -->
+  <a href="[https://www.credly.com/users/amine-moueqqit](https://www.credly.com/badges/56e974af-7309-44c1-8e8c-1de1ea93c0c0/public_url)" target="_blank">
+    <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate_003-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Oracle Cloud Infrastructure -->
+  <a href="https://www.credly.com/users/amine-moueqqit" target="_blank">
+    <img src="https://img.shields.io/badge/OCI-Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/amine-moueqqit" target="_blank">
+    <img src="https://img.shields.io/badge/OCI-AI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/amine-moueqqit" target="_blank">
+    <img src="https://img.shields.io/badge/OCI-DevOps_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Microsoft Azure -->
+  <a href="https://www.credly.com/users/amine-moueqqit" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/amine-moueqqit" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-AZ--204-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/amine-moueqqit" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-AZ--500-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/amine-moueqqit" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/amine-moueqqit" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-SC--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/amine-moueqqit" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/amine-moueqqit" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-AI--102-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Python Institute -->
+  <a href="https://www.credly.com/users/amine-moueqqit" target="_blank">
+    <img src="https://img.shields.io/badge/Python_Institute-PCAP-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+
+</p>
 
 ---
 
@@ -75,3 +122,4 @@ Cloud Platform Engineer specializing in **Infrastructure-as-Code**, **Terraform 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-moueqqit)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amine.moueqqit@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/amine-moueqqit)
